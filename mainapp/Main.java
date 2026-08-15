@@ -1,3 +1,6 @@
+package mainapp;
+import models.*;
+
 public class Main {
     public Main() {
     }
